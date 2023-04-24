@@ -1,6 +1,6 @@
 
 &emsp;
-<h3 align="left">Hi 👋, I'm Wichapon, Logistics Development Engineer based in Bangkok. A passionate self-taught web developer with experience in both backend and frontend programming. I love problem-solving and am always eager to take on new challenges.</h3>
+<h3 align="left">Hi! I'm Wichapon, Logistics Development Engineer based in Bangkok. A passionate self-taught web developer with experience in both backend and frontend programming. I love problem-solving and am always eager to take on new challenges.</h3>
 &emsp;
 
 -------------------
@@ -19,6 +19,11 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+
+### Backend development:
+&emsp;
+![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ### Misc tools:
 &emsp;
