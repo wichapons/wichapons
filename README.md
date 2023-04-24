@@ -22,14 +22,13 @@
 
 ### Backend development:
 &emsp;
-![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![nodejs](https://img.shields.io/badge/Node.js--000?&logo=node.js)
+![express](https://img.shields.io/badge/Express.js-000?logo=express.js)
 
 ### Misc tools:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
