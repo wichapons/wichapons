@@ -10,16 +10,16 @@
 -------------------
 ### Programming languages:
 &emsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-<!--![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)  LEARNING IN PROGRESS
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)LEARNING IN PROGRESS !-->    
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![PineScript](https://img.shields.io/badge/-PineScript-000?&logo=TradingView)
+
 ### Frontend development:
 &emsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+
 ### Misc tools:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
@@ -27,11 +27,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-<!--### Services & Frameworks: 
-&emsp;
-![Hasura](https://img.shields.io/badge/-Hasura-000?&logo=Hasura)
-![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
-![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)!-->
 
 ### Databases:
 &emsp;
@@ -41,9 +36,6 @@
 ### DevOps:
 &emsp;
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
-
-### Certificates
-![Azure](https://www.credly.com/users/wichapon-viriyatharangkurn/badges)
 
 &emsp;
 
