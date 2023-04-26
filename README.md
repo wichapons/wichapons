@@ -41,11 +41,11 @@
 ![Azure](https://img.shields.io/badge/-Azure-blue?&logo=Microsoft-Azure)
 
 ### Certifications :
-[![](https://img.shields.io/badge/Azure%20fundamentals-gray?style=for-the-badge)](https://www.credly.com/badges/e3699a5d-e4e1-4902-9069-2c9aed6515cf) 
-[![](https://img.shields.io/badge/Azure%20Data%20Fundamentals-blue?style=for-the-badge)](https://www.credly.com/badges/cf0d017b-f5a2-4d7e-a9bc-e52afd1ac571)
-[![](https://img.shields.io/badge/Azure%20ai%20fundamentals-darkgreen?style=for-the-badge)](https://www.credly.com/badges/5b93b7fa-dead-4f29-9f27-ddb9214adb7e)
-[![](https://img.shields.io/badge/Azure%20Security%20Fundamentals-brown?style=for-the-badge)](https://www.credly.com/badges/7af04645-834a-4634-a576-98cbb4d3f06b)
-[![](https://img.shields.io/badge/Azure%20Power%20Platform%20Fundamentals-purple?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20I-1.jpg)
+[![](https://img.shields.io/badge/Azure%20Fundamentals-gray)](https://www.credly.com/badges/e3699a5d-e4e1-4902-9069-2c9aed6515cf) 
+[![](https://img.shields.io/badge/Azure%20Data%20Fundamentals-blue)](https://www.credly.com/badges/cf0d017b-f5a2-4d7e-a9bc-e52afd1ac571)
+[![](https://img.shields.io/badge/Azure%20AI%20Fundamentals-darkgreen)](https://www.credly.com/badges/5b93b7fa-dead-4f29-9f27-ddb9214adb7e)
+[![](https://img.shields.io/badge/Azure%20Security%20Fundamentals-brown)](https://www.credly.com/badges/7af04645-834a-4634-a576-98cbb4d3f06b)
+[![](https://img.shields.io/badge/Azure%20Power%20Platform%20Fundamentals-purple)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20I-1.jpg)
 
 
 ## 📈 My GitHub Stats and Activity
