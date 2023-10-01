@@ -1,33 +1,30 @@
 
-&emsp;
-<h3 align="left">Hi! I'm Wichapon, Logistics Analyst Engineer based in Bangkok. A passionate self-taught web developer with experience in both backend and frontend programming. I love problem-solving and always eager to take on new challenges.</h3>
-&emsp;
+<h3 align="left">Hi! I'm Wichapon, Logistics Analyst Engineer based in Bangkok. A passionate self-taught web developer with experiences in both backend and frontend programming. I love problem-solving and always eager to take on new challenges.</h3>
 
 -------------------
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> My Skills
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" /> My Skills
 
--------------------
 ### Programming languages:
-&emsp;
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 ### Frontend development:
-&emsp;
+
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=redux)
 
 ### Backend development:
-&emsp;
+
 ![nodejs](https://img.shields.io/badge/Node.js-black?&logo=node.js&logoColor=white)
 ![express](https://img.shields.io/badge/Express.js-000?logo=express.js)
 
 
 ### Misc tools:
-&emsp;
+
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
@@ -35,12 +32,12 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 
 ### Databases:
-&emsp;
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 
 ### Clouds:
-&emsp;
+
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-000?&logo=Microsoft-Azure)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-000?logo=amazon-aws&logoColor=white)
 
@@ -54,7 +51,6 @@
 
 
 ## 📈 My GitHub Stats and Activity
--------------------
 
 ### 💻 Profile Stats
 
