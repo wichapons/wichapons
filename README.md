@@ -1,5 +1,5 @@
 
-<h3 align="left">Hi! I'm Wichapon, Logistics Analyst Engineer based in Bangkok. A passionate self-taught web developer with experiences in both backend and frontend programming. I love problem-solving and always eager to take on new challenges.</h3>
+<h3 align="left">Hi! I'm Wichapon, AWS Solution Achitect based in Bangkok. A passionate self-taught web developer with experiences in both backend and frontend programming. I love problem-solving and always eager to take on new challenges.</h3>
 
 -------------------
 
